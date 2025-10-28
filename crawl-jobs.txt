@@ -1,0 +1,11 @@
+# GitHub Repository Crawl Jobs
+#
+# Add one GitHub repository URL per line
+# Lines starting with # are comments and will be ignored
+# Empty lines are also ignored
+#
+# Example:
+# https://github.com/coderamp-labs/gitingest
+
+# Test repository
+https://github.com/coderamp-labs/gitingest
